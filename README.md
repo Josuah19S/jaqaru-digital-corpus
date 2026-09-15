@@ -17,3 +17,10 @@ Create a virtual environment and install dependencies.
 ```
 python -m venv <venv_name>
 ```
+
+Install:
+- yt-dlp
+- tesseract
+- easyocr
+- pillow
+- opencv-python-headless
