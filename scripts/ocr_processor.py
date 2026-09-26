@@ -27,7 +27,7 @@ VALID_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".bmp", ".tiff"}
 IDIOMAS = ["es"]  # No existe modelo para jaqaru; 'es' cubre el alfabeto
                   # latino base, con errores esperables en diacríticos
                   # propios del jaqaru (glotalizadas, retroflejas).
-UMBRAL_CONFIANZA = 0.30  # EasyOCR reporta confianza en [0, 1]; 0.35 es
+UMBRAL_CONFIANZA = 0.20  # EasyOCR reporta confianza en [0, 1]; 0.35 es
                          # permisivo a propósito, para no perder texto
                          # real con fuentes decorativas de baja nitidez.
 
