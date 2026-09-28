@@ -1,0 +1,5 @@
+"wallpa","gallina"
+"chiwchuña","pollito"
+"urqu","gallo"
+"kuchi","chancho"
+"pipi","pavo"

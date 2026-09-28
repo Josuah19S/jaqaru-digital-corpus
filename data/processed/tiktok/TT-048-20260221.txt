@@ -1,0 +1,5 @@
+"A: Ña, Alija, ¿ayk watniwta?","(Aleja, ¿cuántos años tienes?)"
+"B: Ña, naq pichq cxunka pajan watniwt""wa. ¿Jumaqa?","(Yo tengo 52 años. ¿Tú?)"
+"A: Naq push cxunka pichqan watniwt""wa.","(Yo tengo 45 años.)"
+"B: Ña, Alicha, uk""amkasa.","(Asi ya, Alicia.)"
+"A: Jawill, ña.","(Si, pues.)"

@@ -1,0 +1,7 @@
+"nayra","ojo"
+"nasa","nariz"
+"jinchu","oreja"
+"shimi","boca"
+"nuk'uta","cabello"
+"najra","lengua"
+"namp'a","cabeza"

@@ -1,0 +1,5 @@
+"ch'ara","caballo"
+"jallq'u","perro"
+"michiku","perro ovejero"
+"ashara","perro de raza pequeño"
+"mishi","gato"

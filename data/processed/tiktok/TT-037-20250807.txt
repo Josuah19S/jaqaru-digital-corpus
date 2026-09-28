@@ -1,0 +1,8 @@
+"¿Qamshachawktasa?","¿Cómo estás?"
+"Kushukkt""wa","Estoy alegre"
+"Ñakkt""wa","Estoy triste"
+"P""iñkt""wa","Estoy enojado(a)"
+"Jatzkt""wa","Estoy llorando"
+"Uskt""wa","Estoy enfermo"
+"Shaykuskt""wa","Estoy cansado(a)"
+"Amruwkt""wa","Estoy bien"

@@ -1,0 +1,5 @@
+"waka","vaca"
+"uña","cría de la vaca"
+"sitz'i","vaquillona"
+"wakcha","oveja"
+"wakchuña","ovejita"

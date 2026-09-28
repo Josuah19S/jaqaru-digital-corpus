@@ -1,0 +1,6 @@
+"nijra","brazo"
+"ampara","mano"
+"shunkaypi","codo"
+"sama","espalda"
+"kururu","ombligo"
+"wak'ak"a","cadera"
